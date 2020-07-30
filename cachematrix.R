@@ -1,3 +1,5 @@
+## Author: Felipe Mehsen Tufaile
+
 ## "MakeCacheMatrix" is a function for creating matrices in a way that the 
 ## information can be cached for fast usage in future procedures.
 ## The function receives / defines a matrix and creates the following objects:
